@@ -1,4 +1,5 @@
 * to generate fibonacci sequence upto nth term */
+% Bipin Timalsina
 fibonacciSequence:-
     write('Enter the position upto which you want to print Fibonacci Sequence : '),read(N),nl,
     write('Fibonacci sequence upto  '),write(N),write(' th term is : '),nl,
